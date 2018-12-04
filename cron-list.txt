@@ -1,0 +1,1 @@
+00 11 * * * zsh Documents/scripts/deleteAfter10Days.sh
